@@ -48,33 +48,6 @@ A realistic fire suppression sprinkler system simulation using fuzzy logic to co
 ## Usage
 
 1. **Adjust Fire Heat Level**: Use the slider to set temperature (70-300°F)
-2. **Set Fire Duration**: Use the slider to set how long the fire has been detected (0-60s)
 3. **Monitor System**: Watch the fuzzy logic controller determine appropriate response
 4. **Reset System**: Click "Reset System" to return to standby mode
 
-## Technical Implementation
-
-- **HTML5**: Semantic structure with accessibility features
-- **CSS3**: Advanced animations, gradients, and responsive design
-- **Vanilla JavaScript**: Fuzzy logic algorithm implementation
-- **Background Integration**: Uses provided background.jpg image
-
-## Files Structure
-```
-Fire/
-├── index.html          # Main HTML structure
-├── styles.css          # CSS styling and animations  
-├── script.js           # Fuzzy logic controller
-├── README.md           # This documentation
-└── Images/
-    └── background.jpg  # Background image
-```
-
-## Browser Compatibility
-- Chrome 60+
-- Firefox 55+
-- Safari 12+
-- Edge 79+
-
----
-*Developed as a fire suppression system simulation with realistic fuzzy logic control algorithms.*
